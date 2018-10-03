@@ -20,7 +20,7 @@ long long reverseNumber (long long credit)
     }
   return tmp;
 }
-
+// write code for more corner cases
 int numberTotal(int number) {
     int total=0;
     
